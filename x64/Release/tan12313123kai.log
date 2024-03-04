@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\CODE\cpp\...............1\tankai\main.cpp(143,48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(146,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(147,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(148,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(149,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(150,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(151,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(152,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CODE\cpp\...............1\tankai\main.cpp(153,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+D:\CODE\cpp\...............1\tankai\main.cpp(183): warning C4715: 'CollisionCheck': not all control paths return a value
+  7 of 41 functions (17.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tan12313123kai.vcxproj -> D:\CODE\cpp\...............1\tankai\x64\Release\tankai.exe
